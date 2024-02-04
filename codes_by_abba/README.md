@@ -1,2 +1,2 @@
-# Codees wriiten by Abdulrahman K Mustapha
+# Codes wriiten by Abdulrahman K Mustapha
 Enjoy seeing and reviewing them!!!!
