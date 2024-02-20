@@ -7,7 +7,5 @@ random.seed(test_seed)
 seed_HT = random.randint(0, 1)
 if seed_HT == 0:
     print("Heads")
-elif seed_HT == 1:
+else seed_HT == 1:
     print("Tails")
-else:
-    print("enter some value")
